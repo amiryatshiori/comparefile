@@ -1,0 +1,11 @@
+http://beej.us/guide/bgnet/output/html/multipage/clientserver.html
+
+https://sourceforge.net/projects/tinyhttpd/
+
+http://www.jmarshall.com/easy/http/
+
+http://stackoverflow.com/questions/176409/build-a-simple-http-server-in-c
+
+http://www.paulgriffiths.net/program/c/webserv.php
+
+
